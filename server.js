@@ -1,1 +1,1 @@
-"console.log('server running');";
+"console.log('Server running on port 3000');" 
